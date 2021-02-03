@@ -1,4 +1,4 @@
-package com.atguigu.securitydemo1.entity;
+package com.peng.securitydemo1.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

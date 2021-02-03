@@ -1,6 +1,6 @@
-package com.atguigu.securitydemo1.mapper;
+package com.peng.securitydemo1.mapper;
 
-import com.atguigu.securitydemo1.entity.Users;
+import com.peng.securitydemo1.entity.Users;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.springframework.stereotype.Repository;
 

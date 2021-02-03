@@ -1,4 +1,4 @@
-package com.atguigu.securitydemo1;
+package com.peng.securitydemo1;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;

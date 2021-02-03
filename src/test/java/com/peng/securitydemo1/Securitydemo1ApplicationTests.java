@@ -1,4 +1,4 @@
-package com.atguigu.securitydemo1;
+package com.peng.securitydemo1;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

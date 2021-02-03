@@ -1,6 +1,6 @@
-package com.atguigu.securitydemo1.controller;
+package com.peng.securitydemo1.controller;
 
-import com.atguigu.securitydemo1.entity.Users;
+import com.peng.securitydemo1.entity.Users;
 import org.springframework.security.access.annotation.Secured;
 import org.springframework.security.access.prepost.PostAuthorize;
 import org.springframework.security.access.prepost.PostFilter;
